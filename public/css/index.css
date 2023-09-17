@@ -48,6 +48,8 @@ body {
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
+	text-align: justify;
+	text-justify: inter-word;
 }
 html {
 	overflow-y: scroll;
